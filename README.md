@@ -51,12 +51,12 @@ Se implementaron procedimientos almacenados para optimizar operaciones CRUD y me
 
 ### Página de Inicio
 <p align="center">
+  <img src="imagenes/home.png" width="400">
   <img src="imagenes/home1.png" width="400">
-  <img src="imagenes/home2.png" width="400">
 </p>
 
 <p align="center">
-  <img src="imagenes/home3.png" width="400">
+  <img src="imagenes/home2.png" width="400">
   <img src="imagenes/home4.png" width="400">
 </p>
 
